@@ -2,25 +2,25 @@
 
 This is a Python-based billing system for TATA Car Service, allowing users to rent two-wheelers and four-wheelers with hourly charges. The system generates an invoice including the total cost with tax after the rental period.
 
-#Features
+Features
 Vehicle Options:
 Select from two vehicle types: 2-wheelers and 4-wheelers.
 Each category offers four specific models (e.g., Bullet, KTM for 2-wheelers; Fortuner, Thar for 4-wheelers).
 
-#Hourly Charges:
+Hourly Charges:
 Each vehicle has unique hourly rates, displayed upon selection.
 
-#Tax Calculation:
+Tax Calculation:
 Different tax rates apply based on the vehicle type.
 
-#Invoice Generation:
+Invoice Generation:
 Generates a detailed invoice showing:
   1. Vehicle name
   2. Rental hours
   3. Applicable tax
   4. Total bill amount
 
-#Output
+Output
 Enter your choice:: 1
 You have selected 2 Wheelers
 There are 4 types of 2 wheelers:
